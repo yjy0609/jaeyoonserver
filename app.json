@@ -1,0 +1,10 @@
+{
+    "buildpacks": [
+      {
+        "url": "https://github.com/yjy0609/jaeyoonserver"
+      },
+      {
+        "url": "heroku/ruby"
+      }
+    ]
+  }
